@@ -172,7 +172,7 @@ Anything you want to improve or add? I always appreciate help, bug reports and c
             <td>Translating</td>
         </tr>
         <tr>
-            <td><a href="https://laby.net/@753edb9b-2483-475e-a4f2-3fb2496b9f28">ausleuchten</a></td>
+            <td><a href="https://laby.net/@753edb9b-2483-475e-a4f2-3fb2496b9f28">ennioderfeini</a></td>
             <td>Documentation</td>
         </tr>
         <tr>
